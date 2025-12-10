@@ -25,6 +25,7 @@
 - **Source:** [📂 Team Report/Week 2/De Tai 01](./TeamReport/Week2/DeTai01)  
 - **Commit log:** [💾 feat: báo cáo bài tập nhóm tuần 2: Chọn đề tài + Phân tích yêu cầu nghiệp vụ](https://github.com/Chin2109/-KTPM---DCT122C3---Assignment-Report/commit/378a25ddf31b08c7dbe5052aa6b8e8c4c8f15201)
 
+<br>
 
 - **Task:** Phân tích thiết kế hệ thống _(Nhóm)_  
 - **Source:** [📂 Team Report/Week 2/Lab 2](./TeamReport/Week2/Lab2)  
@@ -38,6 +39,7 @@
 - **Source:** [📂 Team Report/Week 3/BT3](./TeamReport/Week3/BT3_TrangGiaHuy_3122411068/)  
 - **Commit log:** [💾 feat: báo cáo bài tập nhóm tuần 3: Bài tập thiết kế kiến trúc phần mềm](https://github.com/Chin2109/-KTPM---DCT122C3---Assignment-Report/commit/ebb5592cb126396aa9d608643af87c990b3d90cf)
 
+<br>
 
 - **Task:** Thiết kế kiến trúc hệ thống cho đề tài _(Nhóm)_  
 - **Source:** [📂 Team Report/Week 3/DeTai_Buoc02_ThietKeKienTruc](./TeamReport/Week3/DeTai_Buoc02_ThietKeKienTruc_TrangGiaHuy_3122411068/)  
@@ -53,6 +55,7 @@
 - **Source:** [📂 Individual Report/Week 4](./IndividualReport/3122411078-NguyễnLêQuỳnhHương/Week4/TracNghiem_NguyenLeQuynhHuong_3122411078.docx)  
 - **Commit log:** [💾 feat: [Nguyen Le Quynh Huong] báo cáo bài tập cá nhân tuần 4](https://github.com/Chin2109/-KTPM---DCT122C3---Assignment-Report/commit/811ce7c323af9f2f9e356fdb943f7d07c3ed3425)
 
+<br>
 
 - **Task:** Xây dựng test plan cho dự án ABC dựa vào template _(Nhóm)_  
 - **Source:** [📂 Team Report/Week 4](./TeamReport/Week4/Lab4_TestPlan_TrangGiaHuy_3122411068/)  
