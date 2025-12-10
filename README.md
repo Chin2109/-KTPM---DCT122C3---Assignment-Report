@@ -6,6 +6,8 @@
 - [Tuần 3: Quy trình + Kế hoạch kiểm thử (18/09 - 25/09)](#tuần-3-quy-trình--kế-hoạch-kiểm-thử-1809---2509)
 - [Tuần 4: Quy trình + Kế hoạch kiểm thử - tt (25/09 - 02/10)](#tuần-4-quy-trình--kế-hoạch-kiểm-thử---tt-2509---0210)
 - [Tuần 5: Thiết kế kiểm thử (02/10 - 07/10)](#tuần-5-thiết-kế-kiểm-thử-0210---0710)
+- [Bài tập 6: Kiểm thử bảng quyết định, cặp đôi, chuyển trạng thái, và use-case (23/10 - 29/10)](#bài-tập-6-kiểm-thử-bảng-quyết-định-cặp-đôi-chuyển-trạng-thái-và-use-case-2310---2910)
+- [Bài tập 7: Kiểm thử quy trình (23/10 - 29/10)](#bài-tập-7-kiểm-thử-quy-trình-2310---2910)
 
 ---
 
