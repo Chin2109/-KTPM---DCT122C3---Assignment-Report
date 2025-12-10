@@ -65,4 +65,12 @@
 
 - **Task:**  Nhóm bàn thảo và sinh ra các kiểm thử, dựa vào yêu cầu đề _(Nhóm)_  
 - **Source:** [📂 Team Report/Task 6](./TeamReport/Task6/BT06_KiemThuHopDen2_TrangGiaHuy_3122411068/)  
-- **Commit log:** [💾 feat: báo cáo bài tập nhóm tuần 5](https://github.com/Chin2109/-KTPM---DCT122C3---Assignment-Report/commit/91cfcbd0a6a7723d78b23e65e4575ef50421e326)
+- **Commit log:** [💾 feat: báo cáo bài tập nhóm 6](https://github.com/Chin2109/-KTPM---DCT122C3---Assignment-Report/commit/df06149c44084214f32818b72cbbc05ff8c7a38f)
+
+---
+
+## Bài tập 7: Kiểm thử quy trình (23/10 - 29/10)
+
+- **Task:**  Liệt kê các ngữ cảnh cần kiểm tra cho qui trình, Tại mỗi qui trình, cần có dữ liệu gì? (Áp dụng pp hộp đen) _(Nhóm)_  
+- **Source:** [📂 Team Report/Task 7](./TeamReport/Task7/BT7_KiemThuQuiTrinh_TrangGiaHuy_3122411068/)  
+- **Commit log:** [💾 feat: báo cáo bài tập nhóm 7](https://github.com/Chin2109/-KTPM---DCT122C3---Assignment-Report/commit/df06149c44084214f32818b72cbbc05ff8c7a38f)
