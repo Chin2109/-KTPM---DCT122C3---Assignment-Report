@@ -58,3 +58,11 @@
 - **Task:** Nộp giai đoạn 1 của đề tài _(Nhóm)_  
 - **Source:** [📂 Team Report/Week 5](./TeamReport/Week5/DeTai_GiaiDoan1_TrangGiaHuy_3122411068/)  
 - **Commit log:** [💾 feat: báo cáo bài tập nhóm tuần 5](https://github.com/Chin2109/-KTPM---DCT122C3---Assignment-Report/commit/91cfcbd0a6a7723d78b23e65e4575ef50421e326)
+
+---
+
+## Bài tập 6: Kiểm thử bảng quyết định, cặp đôi, chuyển trạng thái, và use-case (23/10 - 29/10)
+
+- **Task:**  Nhóm bàn thảo và sinh ra các kiểm thử, dựa vào yêu cầu đề _(Nhóm)_  
+- **Source:** [📂 Team Report/Task 6](./TeamReport/Task6/BT06_KiemThuHopDen2_TrangGiaHuy_3122411068/)  
+- **Commit log:** [💾 feat: báo cáo bài tập nhóm tuần 5](https://github.com/Chin2109/-KTPM---DCT122C3---Assignment-Report/commit/91cfcbd0a6a7723d78b23e65e4575ef50421e326)
