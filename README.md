@@ -1,5 +1,13 @@
 # 🧾 Worklog: Báo cáo học phần Kiểm thử phần mềm  
 
+## Thông tin nhóm & giảng viên hướng dẫn
+
+| Vai trò | Họ và tên | MSSV | Lớp |
+|------|---------|------|------|
+| Sinh viên | Trang Gia Huy | 3122411068 | DCT122C3 |
+| Sinh viên | Nguyễn Lê Quỳnh Hương | 3122411078 | DCT122C3 |
+| **Giảng viên hướng dẫn** | **TS. Đỗ Như Tài** |  |  |
+
 ## 📚 Mục lục
 - [Tuần 1: Tổng quan kiểm thử phần mềm (04/09 - 11/09)](#tuần-1-tổng-quan-kiểm-thử-phần-mềm-0409---1109)
 - [Tuần 2: Tổng quan kiểm thử phần mềm - tt (11/09 - 24/09)](#tuần-2-tổng-quan-kiểm-thử-phần-mềm---tt-1109---2409)
